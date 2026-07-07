@@ -1,51 +1,59 @@
 <h1 align="center">Hi 👋, I'm Ersin Cihat BOLEL</h1>
 
-<h3 align="center">Flutter Developer • AI & IoT Engineer</h3>
+<h3 align="center">Flutter Developer • AI Engineer • Computer Vision • IoT Engineer</h3>
 
 <p align="center">
-Passionate about building modern mobile applications, AI-powered IoT systems and embedded software.
+I build AI-powered mobile applications, computer vision systems and IoT solutions using Flutter, TensorFlow and ESP32.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 📱 Flutter & Dart Developer
-- 🤖 AI & Machine Learning
-- 🔥 Firebase
-- 📡 ESP32 & IoT
-- 🐍 Python
-- ⚙️ C++
-- 🌐 REST API Development
+🎓 Computer Engineer
+
+📱 Flutter Developer
+
+🤖 Artificial Intelligence
+
+👁️ Computer Vision
+
+📡 ESP32 & IoT
+
+🐍 Python Developer
+
+⚙️ C++
+
+🔥 Firebase
 
 ---
 
-## 🛠️ Technologies
+# 🚀 Current Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cpp,git,github,vscode,arduino"/>
+🟢 Egg Viability Detection using AI
+
+🟢 Egg Shell Defect Detection using Computer Vision
+
+🟢 Flutter + Firebase Applications
+
+🟢 ESP32 IoT Systems
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cpp,tensorflow,opencv,arduino,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Clean Architecture
-- Advanced Flutter
-- TensorFlow Lite
-- Cloud Technologies
-
----
-
-## 📫 Contact
+# 📫 Contact
 
 📍 Türkiye
 
----
+📧 Email : Coming Soon
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erson006&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erson006&layout=compact&theme=tokyonight" height="170"/>
-</p>
+💼 Upwork : Coming Soon
