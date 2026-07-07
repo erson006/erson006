@@ -40,3 +40,12 @@ Passionate about building modern mobile applications, AI-powered IoT systems and
 ## 📫 Contact
 
 📍 Türkiye
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erson006&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erson006&layout=compact&theme=tokyonight" height="170"/>
+</p>
