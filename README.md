@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ersin Cihat BOLEL</h1>
+<h1 align="center">Hi 👋 I'm Ersin Cihat BOLEL</h1>
 
-<h3 align="center">Flutter Developer • AI Engineer • Computer Vision • IoT Engineer</h3>
+<h3 align="center">
+Computer Engineer | Flutter Developer | AI & Computer Vision Engineer | IoT Developer
+</h3>
 
 <p align="center">
-I build AI-powered mobile applications, computer vision systems and IoT solutions using Flutter, TensorFlow and ESP32.
+
+<img src="https://komarev.com/ghpvc/?username=erson006&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
+<p align="center">
+
+Building AI-powered mobile applications, embedded systems, and computer vision solutions using Flutter, TensorFlow Lite, ESP32, and Edge Impulse.
+
+</p>
 ---
 
 # 👨‍💻 About Me
@@ -50,10 +59,38 @@ I build AI-powered mobile applications, computer vision systems and IoT solution
 
 ---
 
-# 📫 Contact
+## 📊 GitHub Statistics
 
-📍 Türkiye
+<p align="center">
 
-📧 Email : Coming Soon
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erson006&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erson006&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=erson006&theme=github-dark"/>
+
+</p>
+
+# 📬 Contact
+
+📧 Email
+
+**ersincihatbolel@gmail.com**
+
+🌍 Country
+
+**Türkiye**
+
+💼 Upwork
+
+**Coming Soon**
 
 💼 Upwork : Coming Soon
