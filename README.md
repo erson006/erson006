@@ -49,6 +49,32 @@ Building AI-powered mobile applications, embedded systems, and computer vision s
 
 ---
 
+# ⭐ Featured Projects
+
+🥚 **AI-Based Egg Viability Detection System**
+
+> Flutter • TensorFlow Lite • ESP32-CAM • Edge Impulse
+
+---
+
+🥚 **Egg Shell Defect Detection System**
+
+> Computer Vision • TensorFlow • Image Processing
+
+---
+
+📱 **Flutter + Firebase Applications**
+
+> Authentication • Firestore • Realtime Database
+
+---
+
+📡 **ESP32 IoT Systems**
+
+> Wi-Fi • Sensors • Embedded Systems
+
+---
+
 # 🛠 Tech Stack
 
 <p align="center">
@@ -92,5 +118,3 @@ Building AI-powered mobile applications, embedded systems, and computer vision s
 💼 Upwork
 
 **Coming Soon**
-
-💼 Upwork : Coming Soon
